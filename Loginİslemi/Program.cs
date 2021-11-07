@@ -22,7 +22,6 @@ namespace Loginİslemi
                     //break;
                     returnValue = false;
                     Console.WriteLine("Hoş geldin Admin....");
-                    Console.WriteLine("Hello World!");
                     Console.ReadLine();
                 }
                 else
