@@ -23,6 +23,8 @@ namespace fordongusu
             }
 
             Console.WriteLine($"Girilen sayıların toplamı: {toplam} 'dır.");
+
+           
             Console.ReadKey();
         }
     }

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace WhileDongusu
+namespace forLoopOrnegi
 {
     class Program
     {
@@ -11,32 +11,22 @@ namespace WhileDongusu
             Console.WriteLine("Kaça kadar çarpmak istiyorsunuz. Max. 10......");
             int n = Convert.ToInt32(Console.ReadLine());
 
-            if (n > 1 && n < 10)
-            {
-                int i = 1;
-                int j = 1;
-                while (i <= n)
+           while(n > 1 && n < 10)
+           {                     
+   
+                for(int i = 1; i <= n; i++)
                 {
-
-                    while ( j <= 10)
+                    for (int j = 1; j <= 10; j++)
                     {
                         int sonuc = i * j;
                         Console.WriteLine($"{i} * {j} = {sonuc}");
-                        j++;
 
                     }
-
-                    j = 1;
                     Console.WriteLine("************************************************");
-                    i++;
                 }
-                
+                n++;
             }
-            else
-            {
-                Console.WriteLine("Değer dışındadır. ");
-            }
-
+           
             Console.WriteLine("Hello World!");
             Console.ReadLine();
         }

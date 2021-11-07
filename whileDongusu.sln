@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whileDongusu", "whileDongus
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fordongusu", "fordongusu\fordongusu.csproj", "{B90883CA-9AF0-4854-9637-F340A0839382}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forLoopOrnegi", "forLoopOrnegi\forLoopOrnegi.csproj", "{80E22409-E62A-4A90-B0BC-D1C526A99E52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpTerimleri", "JumpTerimleri\JumpTerimleri.csproj", "{54018CB8-6FE3-4225-9A44-686DB9C4D65A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{B90883CA-9AF0-4854-9637-F340A0839382}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B90883CA-9AF0-4854-9637-F340A0839382}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B90883CA-9AF0-4854-9637-F340A0839382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E22409-E62A-4A90-B0BC-D1C526A99E52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E22409-E62A-4A90-B0BC-D1C526A99E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E22409-E62A-4A90-B0BC-D1C526A99E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E22409-E62A-4A90-B0BC-D1C526A99E52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54018CB8-6FE3-4225-9A44-686DB9C4D65A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54018CB8-6FE3-4225-9A44-686DB9C4D65A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54018CB8-6FE3-4225-9A44-686DB9C4D65A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54018CB8-6FE3-4225-9A44-686DB9C4D65A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
