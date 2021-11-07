@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forLoopOrnegi", "forLoopOrn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpTerimleri", "JumpTerimleri\JumpTerimleri.csproj", "{54018CB8-6FE3-4225-9A44-686DB9C4D65A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnbuyukHesaplama", "EnbuyukHesaplama\EnbuyukHesaplama.csproj", "{0108CD0E-0BDD-4985-9BDE-08A956911375}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loginİslemi", "Loginİslemi\Loginİslemi.csproj", "{0A4BA808-C3EC-4DE5-BD6E-DEA48C6FA552}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{54018CB8-6FE3-4225-9A44-686DB9C4D65A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54018CB8-6FE3-4225-9A44-686DB9C4D65A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54018CB8-6FE3-4225-9A44-686DB9C4D65A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0108CD0E-0BDD-4985-9BDE-08A956911375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0108CD0E-0BDD-4985-9BDE-08A956911375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0108CD0E-0BDD-4985-9BDE-08A956911375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0108CD0E-0BDD-4985-9BDE-08A956911375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A4BA808-C3EC-4DE5-BD6E-DEA48C6FA552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4BA808-C3EC-4DE5-BD6E-DEA48C6FA552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4BA808-C3EC-4DE5-BD6E-DEA48C6FA552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A4BA808-C3EC-4DE5-BD6E-DEA48C6FA552}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
